@@ -9,15 +9,7 @@
 
 - 🌱 I’m currently learning **Java、C#、SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Libw-I?tab=repositories](https://github.com/Libw-I?tab=repositories)
-
-- 📝 I regularly write articles on [https://blog.libw.cc](https://blog.libw.cc)
-
 - 💬 Ask me about **Javascript/Typescript**
-
-- 📫 How to reach me **<Libw-I@Libw.cc>**
-
-- 📄 Know about my experiences [https://about.libw.cc](https://about.libw.cc)
 
 - ⚡ Fun fact **Errors crash projects, warnings crash OCD**
 
